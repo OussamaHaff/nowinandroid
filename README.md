@@ -1,9 +1,11 @@
-![Now in Android](docs/images/nia-splash.jpg "Now in Android")
+![Now in Android](docs/images/nia-splash.jpg "Now in Android (The Fork)")
 
 <a href="https://play.google.com/store/apps/details?id=com.google.samples.apps.nowinandroid"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70"></a>
 
-Now in Android App
+Now in Android App (The Fork)
 ==================
+
+This is a new fork of the original repo.
 
 **Learn how this app was designed and built in the [design case study](https://goo.gle/nia-figma), [architecture learning journey](docs/ArchitectureLearningJourney.md) and [modularization learning journey](docs/ModularizationLearningJourney.md).**
 
